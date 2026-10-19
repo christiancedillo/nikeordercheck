@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import json
 from discord_webhook import DiscordWebhook, DiscordEmbed
 
-webhookUrl = "https://discord.com/api/webhooks/1074719063936335992/HFOu3xduDLYyqSnWTxkOXNHCNtH7W4qfr7cSFvj0SgeD64Cp1QV0hrbtWDGm72WV-jK-"
+webhookUrl = "https://discord.com/api/webhooks/...."
 
 headers = {
     'authority': 'api.nike.com',
